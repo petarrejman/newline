@@ -1,0 +1,10 @@
+.bg9 {
+  background-image: url("sadsad.jpg");
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
